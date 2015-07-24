@@ -12,7 +12,7 @@
   <fullscreen>false</fullscreen>
   <navbar-hidden>false</navbar-hidden>
   <analytics>true</analytics>
-  <guid>2328c594-cdd3-4df8-9777-75d3864c37c3</guid>
+  <guid>4ed25ea2-6ac8-4857-9aaa-75d3864c37c3</guid>
   <property name="ti.ui.defaultunit" type="string">dp</property>
   <property name="ti.facebook.appid">698755003587646</property>
   <ios>
@@ -75,7 +75,7 @@
   <plugins>
     <plugin version="1.0">ti.alloy</plugin>
   </plugins>
-  <property name="appc-app-id" type="string">55ad08ad40e510432a5d3241</property>
+  <property name="appc-app-id" type="string">55b1ae890cc98c061859dcf0</property>
   <property name="acs-authbase-url-development" type="string">https://secure-identity.cloud.appcelerator.com</property>
   <property name="acs-base-url-development" type="string">https://api.cloud.appcelerator.com</property>
   <property name="acs-oauth-secret-development" type="string">6n28ztXkmBcVxsNqII6CKTkWcNyv4uRG</property>
